@@ -76,9 +76,16 @@ To use this project:
 4. **Open the Power BI Dashboard**: Connect Power BI to MySQL and explore the interactive dashboard to analyze Airbnb trends.
 ---
 
-## Contributing
-This project is a collaborative effort by a group of five members. Contributions from other developers and data enthusiasts are welcome! Please refer to the contribution guidelines and code of conduct included in the repository.
+### <img src="https://drive.google.com/uc?export=view&id=1AjJUHkHEUuYhcQwXpXy3kwq6cmZTXYoN" width="25" height="25" alt="Description of GIF"> Team Contribution
 
+This project was a team effort by a group of 5 members. Each member contributed to different parts of the project, from data  cleaning to data analysis and visualization. The collaboration helped us complete the project efficiently and gain a better understanding of the LinkedIn job market.
+>  Contributors are -
+
+- [![GitHub](https://img.shields.io/badge/Alpana%20Sahu-333?logo=github&logoColor=white&labelColor=333)](https://github.com/anjanicoder)
+- [![GitHub](https://img.shields.io/badge/Salil%20Singh-333?logo=github&logoColor=white&labelColor=333)](https://github.com/Salil-Singh-01)
+- [![GitHub](https://img.shields.io/badge/Abdul%20Raheem-333?logo=github&logoColor=white&labelColor=333)](https://github.com/aam1rkhan)
+- [![GitHub](https://img.shields.io/badge/Arpita%20Sathe-333?logo=github&logoColor=white&labelColor=333)](https://github.com/tauheed7080)
+- [![GitHub](https://img.shields.io/badge/Bharat%20Nagar-333?logo=github&logoColor=white&labelColor=333)](https://github.com/Jayadavv)
 ## Acknowledgments
 We would like to thank:
 - **Kaggle** for the dataset
