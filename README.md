@@ -1,4 +1,4 @@
-# EU_Airbnb_price_analysis
+# Airbnb Listing Analysis
 
 ![Airbnb Dashboard](./images/Performane&Trends.png)
 
