@@ -1,0 +1,63 @@
+2024-10-04 23:07:38,756 - INFO - root - Program start
+2024-10-04 23:07:38,756 - INFO - root - Succesfully connected to Google Drive
+2024-10-04 23:07:38,756 - INFO - googleapiclient.discovery_cache - file_cache is only supported with oauth2client<4.0.0
+2024-10-04 23:07:38,773 - DEBUG - googleapiclient.discovery - URL being requested: GET https://www.googleapis.com/drive/v2/files?q=%271Tbts4TvMt2p3QKDPbdHrbpR2VSFxO31v%27+in+parents+and+trashed%3Dfalse&maxResults=1000&alt=json
+2024-10-04 23:07:38,773 - INFO - oauth2client.transport - Attempting refresh to obtain initial access_token
+2024-10-04 23:07:38,804 - DEBUG - oauth2client.crypt - [b'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6ImY3YWIzYjM0NTZkYmE4YmMyOWU3M2JlMDI3ZGU2N2IyNTY4ZjE4YTcifQ', b'eyJhdWQiOiJodHRwczovL29hdXRoMi5nb29nbGVhcGlzLmNvbS90b2tlbiIsInNjb3BlIjoiaHR0cHM6Ly9zcHJlYWRzaGVldHMuZ29vZ2xlLmNvbS9mZWVkcyBodHRwczovL3d3dy5nb29nbGVhcGlzLmNvbS9hdXRoL2RyaXZlIiwiaWF0IjoxNzI4MDYzNDU4LCJleHAiOjE3MjgwNjcwNTgsImlzcyI6Imdsb2JhbGdyZWVuZ2Vla3NAYWlyYm5icHJpY2VhbmFseXNpcy5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbSJ9', b'c9MKs10EeJC7m9mu6RMQQ3XX2GEWy41kKGKO1RPIcSc53_jB6FuD_Xm-WX4Q60Oqdl1mMo0u_gjx9NDkOI7TLOaAJit9_sin6wzusAtyVE4Y5btEBQBKd_EZtjn4QBl71rmR60Q4QY0wqWyZwy3flTxAew7PoVkDolsfNvrJZhx-q2o0DaMvtOtK61agiQuPRX4g49Y4D4ElYJNjWTmhz2CpvZpXC4VfDCseh47vQVEX1eXeJNv4eTpYSL-vKaIwQg77nZa_WpknLfSI1R6mn3cv5Fc57Vd-BWKQE8qNMTYgwOYWZxirou9FpYwb0k_R58hxxNtsdfbftvAx2zQdaA']
+2024-10-04 23:07:38,823 - INFO - oauth2client.client - Refreshing access_token
+2024-10-04 23:07:40,453 - INFO - root - Found the following files within the drive folder:
+['budapest_weekdays.csv', 'barcelona_weekdays.csv', 'berlin_weekends.csv', 'berlin_weekdays.csv', 'lisbon_weekdays.csv', 'paris_weekdays.csv', 'rome_weekends.csv', 'vienna_weekends.csv', 'lisbon_weekends.csv', 'barcelona_weekends.csv', 'rome_weekdays.csv', 'london_weekdays.csv', 'vienna_weekdays.csv', 'london_weekends.csv', 'paris_weekends.csv', 'budapest_weekends.csv', 'athens_weekends.csv', 'amsterdam_weekends.csv', 'athens_weekdays.csv', 'amsterdam_weekdays.csv']
+2024-10-04 23:07:40,453 - DEBUG - googleapiclient.discovery - URL being requested: GET https://www.googleapis.com/drive/v2/files/1PZqSObkFNJzSAW1lZXsBQVD47Dz9AWGA?alt=json
+2024-10-04 23:07:44,749 - INFO - root - Successfully read the file budapest_weekdays.csv
+2024-10-04 23:07:44,765 - DEBUG - googleapiclient.discovery - URL being requested: GET https://www.googleapis.com/drive/v2/files/1sWHzBsb3tVE_AVo7-SOSw3_142URQ1mF?alt=json
+2024-10-04 23:07:48,822 - INFO - root - Successfully read the file barcelona_weekdays.csv
+2024-10-04 23:07:48,840 - DEBUG - googleapiclient.discovery - URL being requested: GET https://www.googleapis.com/drive/v2/files/1RXYOPYoSmPknfCddsxbYh_O7If4vL6yc?alt=json
+2024-10-04 23:07:53,107 - INFO - root - Successfully read the file berlin_weekends.csv
+2024-10-04 23:07:53,122 - DEBUG - googleapiclient.discovery - URL being requested: GET https://www.googleapis.com/drive/v2/files/14YppxAXjBW3RpYmhKqiqpMGM4LeTl8qO?alt=json
+2024-10-04 23:07:58,371 - INFO - root - Successfully read the file berlin_weekdays.csv
+2024-10-04 23:07:58,379 - DEBUG - googleapiclient.discovery - URL being requested: GET https://www.googleapis.com/drive/v2/files/18TeyMH5BBp12Z8iR596J7ZAeZnQIDUvJ?alt=json
+2024-10-04 23:08:03,496 - INFO - root - Successfully read the file lisbon_weekdays.csv
+2024-10-04 23:08:03,496 - DEBUG - googleapiclient.discovery - URL being requested: GET https://www.googleapis.com/drive/v2/files/1LG24IpN1TZXVoF66onqc_Z15gd4-m71V?alt=json
+2024-10-04 23:08:07,587 - INFO - root - Successfully read the file paris_weekdays.csv
+2024-10-04 23:08:07,587 - DEBUG - googleapiclient.discovery - URL being requested: GET https://www.googleapis.com/drive/v2/files/1Lf70TgwDMh0NOlcx3_8hNqqqgLiabRYb?alt=json
+2024-10-04 23:08:12,825 - INFO - root - Successfully read the file rome_weekends.csv
+2024-10-04 23:08:12,825 - DEBUG - googleapiclient.discovery - URL being requested: GET https://www.googleapis.com/drive/v2/files/1juj0NxF6aVDIIzHtiBWnoT1AIelXgZhe?alt=json
+2024-10-04 23:08:16,926 - INFO - root - Successfully read the file vienna_weekends.csv
+2024-10-04 23:08:16,926 - DEBUG - googleapiclient.discovery - URL being requested: GET https://www.googleapis.com/drive/v2/files/1Kb4Nrb5vBRsrzWYpLP4Wbx_yACMF717Z?alt=json
+2024-10-04 23:08:22,868 - INFO - root - Successfully read the file lisbon_weekends.csv
+2024-10-04 23:08:22,876 - DEBUG - googleapiclient.discovery - URL being requested: GET https://www.googleapis.com/drive/v2/files/1HMuLzA8RjnCFuLMZdTiaYDTGMlx1evG3?alt=json
+2024-10-04 23:08:27,007 - INFO - root - Successfully read the file barcelona_weekends.csv
+2024-10-04 23:08:27,007 - DEBUG - googleapiclient.discovery - URL being requested: GET https://www.googleapis.com/drive/v2/files/1oTpxzoz8iwXPzVzssJ9XHDLA5qOp-AZq?alt=json
+2024-10-04 23:08:31,437 - INFO - root - Successfully read the file rome_weekdays.csv
+2024-10-04 23:08:31,446 - DEBUG - googleapiclient.discovery - URL being requested: GET https://www.googleapis.com/drive/v2/files/1wkPyJLCWelyXjugcNLkkcc-xIicsse5W?alt=json
+2024-10-04 23:08:36,098 - INFO - root - Successfully read the file london_weekdays.csv
+2024-10-04 23:08:36,114 - DEBUG - googleapiclient.discovery - URL being requested: GET https://www.googleapis.com/drive/v2/files/1BWk9dkqmwW60CeBO6Ca2vH2BkHDmpaNw?alt=json
+2024-10-04 23:08:41,781 - INFO - root - Successfully read the file vienna_weekdays.csv
+2024-10-04 23:08:41,797 - DEBUG - googleapiclient.discovery - URL being requested: GET https://www.googleapis.com/drive/v2/files/1QzEQnMfLmVWNPSA0mxSt7jDqQc6oaHc6?alt=json
+2024-10-04 23:08:46,871 - INFO - root - Successfully read the file london_weekends.csv
+2024-10-04 23:08:46,886 - DEBUG - googleapiclient.discovery - URL being requested: GET https://www.googleapis.com/drive/v2/files/1QwG-DOCKuIxPliMVzsZU6ViSYn2vZ215?alt=json
+2024-10-04 23:08:51,856 - INFO - root - Successfully read the file paris_weekends.csv
+2024-10-04 23:08:51,871 - DEBUG - googleapiclient.discovery - URL being requested: GET https://www.googleapis.com/drive/v2/files/1_ON3qlEkePrQK6FiY1CrKP2SviZ0os6D?alt=json
+2024-10-04 23:08:56,545 - INFO - root - Successfully read the file budapest_weekends.csv
+2024-10-04 23:08:56,557 - DEBUG - googleapiclient.discovery - URL being requested: GET https://www.googleapis.com/drive/v2/files/1IjFMlOs-zXlh6RtYZW-MsRBIkE8YdsDH?alt=json
+2024-10-04 23:09:01,663 - INFO - root - Successfully read the file athens_weekends.csv
+2024-10-04 23:09:01,678 - DEBUG - googleapiclient.discovery - URL being requested: GET https://www.googleapis.com/drive/v2/files/1FnahqAADi6pNqsXn6WozyIgBfSc0jB9f?alt=json
+2024-10-04 23:09:06,015 - INFO - root - Successfully read the file amsterdam_weekends.csv
+2024-10-04 23:09:06,063 - DEBUG - googleapiclient.discovery - URL being requested: GET https://www.googleapis.com/drive/v2/files/1kzKvrP3RpNRYJbVje7pTVsClYSfwdfCh?alt=json
+2024-10-04 23:09:11,010 - INFO - root - Successfully read the file athens_weekdays.csv
+2024-10-04 23:09:11,019 - DEBUG - googleapiclient.discovery - URL being requested: GET https://www.googleapis.com/drive/v2/files/1z_GKjx3sOJEhMCue5P7RkenCH_GwiEXr?alt=json
+2024-10-04 23:09:15,501 - INFO - root - Successfully read the file amsterdam_weekdays.csv
+2024-10-04 23:09:15,549 - INFO - root - Merged data from different cities: 
+      realSum        room_type  room_shared  room_private  ...       lng       lat      City  day_flag
+0  238.990459  Entire home/apt        False         False  ...  19.05074  47.50076  budapest  weekdays
+1  300.794285  Entire home/apt        False         False  ...  19.04493  47.50405  budapest  weekdays
+2  162.381915  Entire home/apt        False         False  ...  19.02170  47.49882  budapest  weekdays
+3  118.437750  Entire home/apt        False         False  ...  19.06301  47.51126  budapest  weekdays
+4  134.417446  Entire home/apt        False         False  ...  19.06900  47.49900  budapest  weekdays
+
+[5 rows x 21 columns]
+2024-10-04 23:09:16,095 - INFO - root - Connection to MySQL DB successful
+2024-10-04 23:09:16,110 - INFO - root - Database 'airbnb_masai' created successfully
+2024-10-04 23:09:16,110 - INFO - root - Table created successfully
+2024-10-04 23:09:23,398 - INFO - root - Successfully wrote the data to SQL table
+2024-10-04 23:09:23,398 - INFO - root - Program End
