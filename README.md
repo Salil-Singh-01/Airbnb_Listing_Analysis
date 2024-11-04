@@ -81,11 +81,11 @@ To use this project:
 This project was a team effort by a group of 5 members. Each member contributed to different parts of the project, from data  cleaning to data analysis and visualization. The collaboration helped us complete the project efficiently and gain a better understanding of the LinkedIn job market.
 >  Contributors are -
 
-- [![GitHub](https://img.shields.io/badge/Alpana%20Sahu-333?logo=github&logoColor=white&labelColor=333)](https://github.com/anjanicoder)
+- [![GitHub](https://img.shields.io/badge/Alpana%20Sahu-333?logo=github&logoColor=white&labelColor=333)](https://github.com/AlpanaSahu11)
 - [![GitHub](https://img.shields.io/badge/Salil%20Singh-333?logo=github&logoColor=white&labelColor=333)](https://github.com/Salil-Singh-01)
-- [![GitHub](https://img.shields.io/badge/Abdul%20Raheem-333?logo=github&logoColor=white&labelColor=333)](https://github.com/aam1rkhan)
-- [![GitHub](https://img.shields.io/badge/Arpita%20Sathe-333?logo=github&logoColor=white&labelColor=333)](https://github.com/tauheed7080)
-- [![GitHub](https://img.shields.io/badge/Bharat%20Nagar-333?logo=github&logoColor=white&labelColor=333)](https://github.com/Jayadavv)
+- [![GitHub](https://img.shields.io/badge/Abdul%20Raheem-333?logo=github&logoColor=white&labelColor=333)](https://github.com/abdul-raheem)
+- [![GitHub](https://img.shields.io/badge/Arpita%20Sathe-333?logo=github&logoColor=white&labelColor=333)](https://github.com/arpita-sathe)
+- [![GitHub](https://img.shields.io/badge/Bharat%20Nagar-333?logo=github&logoColor=white&labelColor=333)](https://github.com/Bharatnagar123)
 ## Acknowledgments
 We would like to thank:
 - **Kaggle** for the dataset
