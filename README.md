@@ -12,9 +12,9 @@
 4. [Features and Functionality](#features-and-functionality)
 5. [Technologies Used](#technologies-used)
 6. [Usage](#usage)
-7. [Contributing](#contributing)
-8. [License](#license)
-9. [Acknowledgments](#acknowledgments)
+7. [Team Contribution](#team-contribution)
+8. [Acknowledgments](#acknowledgments)
+9. [Final Dashboard](#final-dashboard)
 
 ---
 
@@ -76,7 +76,7 @@ To use this project:
 4. **Open the Power BI Dashboard**: Connect Power BI to MySQL and explore the interactive dashboard to analyze Airbnb trends.
 ---
 
-### <img src="https://drive.google.com/uc?export=view&id=1AjJUHkHEUuYhcQwXpXy3kwq6cmZTXYoN" width="25" height="25" alt="Description of GIF"> Team Contribution
+## <img src="https://drive.google.com/uc?export=view&id=1AjJUHkHEUuYhcQwXpXy3kwq6cmZTXYoN" width="25" height="25" alt="Description of GIF"> Team Contribution
 
 This project was a team effort by a group of 5 members. Each member contributed to different parts of the project, from data  cleaning to data analysis and visualization. The collaboration helped us complete the project efficiently and gain a better understanding of the LinkedIn job market.
 >  Contributors are -
@@ -92,9 +92,12 @@ We would like to thank:
 - **Microsoft Power BI** for the visualization platform
 - Our group members for their collaboration and effort in making this project possible
 
+---
+## Final Dashboard
 
-
-
+![Dashboard Image](https://github.com/Salil-Singh-01/Airbnb_Listing_Analysis/blob/main/Images%20of%20Dashboard/Home_page.png)
+![Dashboard Image](https://github.com/Salil-Singh-01/Airbnb_Listing_Analysis/blob/main/Images%20of%20Dashboard/Performane%26Trends.png)
+![Dashboard Image](https://github.com/Salil-Singh-01/Airbnb_Listing_Analysis/blob/main/Images%20of%20Dashboard/Hosts%26listing_insights.png)
 
 
 
